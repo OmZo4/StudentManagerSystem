@@ -49,4 +49,6 @@ Welcome to Student Manager 1.0 BY OMZO
 /SMSV1.0/StudentManager/LoginPage.java          //GUI pass/username
 /SMSV1.0/StudentManager/mysqlconnector.jar      //JBDC driver for mysql
 
+https://github.com/OmZo4/StudentManagerSystem/blob/main/SMSv1.0/img/Screenshot_2024-04-14_15-06-46.png
+
 
